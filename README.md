@@ -1,4 +1,5 @@
-### Hi there 👋
+<h3 align='center'> Hi there! :wave:</h3>
+<p align='center'>I'm <b>Gabor</b> from Hungary.</p>
 
 <!--
 **ghataa/ghataa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
