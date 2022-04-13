@@ -1,7 +1,7 @@
 <h3 align='center'> Hey there, I'm Gabor :wave:</h3>
 
 <p align='center'>👨‍🍳 I usually cook with <img alt="Java" title="Java" src="https://github.com/ghataa/ghataa/blob/main/assets/java.svg" height="28"> and <img alt="Kotlin" title="Kotlin" src="https://github.com/ghataa/ghataa/blob/main/assets/kotlin.svg" height="12"> for <img alt="Android" title="Android" src="https://github.com/ghataa/ghataa/blob/main/assets/android.svg" height="28"></p>
-<p align='center'>I'm the co-founder of the multiple award winner <a href="https://vimageapp.com/">VIMAGE app</a> with 5M+ downloads so far.</p>
+<p align='center'>I'm the co-founder of the multiple award winner <a href="https://vimageapp.com/">VIMAGE app</a> (with 5M+ downloads so far 🚀) and currently work for <a href="https://www.lastpass.com/">LastPass</a> as an <b>Android Software Engineer</b></p>
 <br>
 <p align='center'>Feel free to check my personal projects here, on
   <a href="https://github.com/ghataa"><img alt="GitHub" title="GitHub" src="https://github.com/ghataa/ghataa/blob/main/assets/github.svg" height="12"></a>
